@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e" scale="0.9" border="0">
+    <diagram id="72IYUMVad8w22dDPj5U1" name="Page-1">
+        <mxGraphModel dx="1361" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#001933" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;h1 class=&quot;title style-scope ytd-video-primary-info-renderer&quot;&gt;&lt;span dir=&quot;auto&quot; class=&quot;style-scope yt-formatted-string&quot;&gt;create quiz app by flutter GetX&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                    <mxGeometry x="616" y="248" width="357" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;font color=&quot;#001933&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;WelCome Screen&lt;br&gt;&lt;/b&gt;&lt;/font&gt;(Sign In)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="415" y="375" width="170" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;span dir=&quot;auto&quot; class=&quot;style-scope yt-formatted-string&quot;&gt;&lt;font color=&quot;#001933&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px&quot;&gt;&lt;b&gt; Score Screen&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="1004" y="375" width="170" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span dir=&quot;auto&quot; class=&quot;style-scope yt-formatted-string&quot;&gt;&lt;font style=&quot;font-size: 18px&quot; face=&quot;Comic Sans MS&quot; color=&quot;#001933&quot;&gt;&lt;b&gt;100 mark&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="809" y="373" width="170" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;span dir=&quot;auto&quot; class=&quot;style-scope yt-formatted-string&quot;&gt;&lt;font color=&quot;#001933&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Quiz Screen&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;span dir=&quot;auto&quot; class=&quot;style-scope yt-formatted-string&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#001933&quot;&gt;(10 Question)&lt;/font&gt;&lt;/span&gt;&lt;font color=&quot;#001933&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="373" width="170" height="240" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
